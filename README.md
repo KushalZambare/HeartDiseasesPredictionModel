@@ -1,3 +1,3 @@
 # HeartDiseasesPredictionModel
-Machine Learning Model for diseases.
+Machine Learning Model for Diseases.
 
